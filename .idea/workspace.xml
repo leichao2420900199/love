@@ -1,7 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:master" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="e128c831-854f-4ff6-b99a-884c86a17edd" name="Default Changelist" comment="" />
+    <list default="true" id="e128c831-854f-4ff6-b99a-884c86a17edd" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -35,26 +52,53 @@
       <option name="presentableId" value="Default" />
       <updated>1598335895021</updated>
       <workItem from="1598335899686" duration="4582000" />
-      <workItem from="1598341061553" duration="95000" />
+      <workItem from="1598341061553" duration="411000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="2" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="WindowStateProjectService">
     <state x="304" y="187" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1598340297681">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state x="304" y="187" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1598340297681" />
-    <state x="646" y="451" key="Github.CreateGistDialog" timestamp="1598340217377">
+    <state x="646" y="451" key="Github.CreateGistDialog" timestamp="1598341166279">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state x="646" y="451" key="Github.CreateGistDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1598340217377" />
-    <state x="713" y="429" width="254" height="280" key="Github.ShareDialog" timestamp="1598340352335">
+    <state x="646" y="451" key="Github.CreateGistDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1598341166279" />
+    <state x="713" y="429" width="254" height="280" key="Github.ShareDialog" timestamp="1598341283231">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state x="713" y="429" width="254" height="280" key="Github.ShareDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1598340352335" />
+    <state x="713" y="429" width="254" height="280" key="Github.ShareDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1598341283231" />
+    <state x="670" y="237" key="Github.UntrackedFilesDialog" timestamp="1598341291977">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="670" y="237" key="Github.UntrackedFilesDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1598341291977" />
     <state x="341" y="164" key="SettingsEditor" timestamp="1598341156219">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
@@ -63,9 +107,9 @@
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state x="440" y="265" key="Vcs.Push.Dialog.v2/0.0.1680.1050@0.0.1680.1050" timestamp="1598340489069" />
-    <state x="628" y="446" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1598340406500">
+    <state x="628" y="446" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1598341315839">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state x="628" y="446" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1680.1050@0.0.1680.1050" timestamp="1598340406500" />
+    <state x="628" y="446" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1680.1050@0.0.1680.1050" timestamp="1598341315839" />
   </component>
 </project>
