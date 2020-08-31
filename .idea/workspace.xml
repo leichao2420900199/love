@@ -17,7 +17,30 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e128c831-854f-4ff6-b99a-884c86a17edd" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2/README.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2/css/default.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2/css/default_dev.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2/digital-7_mono.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2/js/functions.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2/js/functions_dev.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2/js/garden.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2/js/garden_dev.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2/js/jquery.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Love_files/default.css" beforeDir="false" afterPath="$PROJECT_DIR$/1/Love_files/default.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Love_files/functions.js" beforeDir="false" afterPath="$PROJECT_DIR$/1/Love_files/functions.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Love_files/jquery.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/1/Love_files/jquery.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Love_files/jscex-async-powerpack.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/1/Love_files/jscex-async-powerpack.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Love_files/jscex-async.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/1/Love_files/jscex-async.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Love_files/jscex-builderbase.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/1/Love_files/jscex-builderbase.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Love_files/jscex-jit.js" beforeDir="false" afterPath="$PROJECT_DIR$/1/Love_files/jscex-jit.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Love_files/jscex-parser.js" beforeDir="false" afterPath="$PROJECT_DIR$/1/Love_files/jscex-parser.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Love_files/jscex.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/1/Love_files/jscex.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Love_files/love.js" beforeDir="false" afterPath="$PROJECT_DIR$/1/Love_files/love.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.txt" beforeDir="false" afterPath="$PROJECT_DIR$/1/README.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/1/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,6 +64,24 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
   </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/1" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/love/2/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.index.html" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SvnConfiguration">
     <configuration>$USER_HOME$/.subversion</configuration>
   </component>
@@ -52,8 +93,17 @@
       <option name="presentableId" value="Default" />
       <updated>1598335895021</updated>
       <workItem from="1598335899686" duration="4582000" />
-      <workItem from="1598341061553" duration="411000" />
+      <workItem from="1598341061553" duration="618000" />
+      <workItem from="1598843645429" duration="796000" />
     </task>
+    <task id="LOCAL-00001" summary="修改">
+      <created>1598341695134</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1598341695134</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -81,12 +131,21 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="修改" />
+    <option name="LAST_COMMIT_MESSAGE" value="修改" />
   </component>
   <component name="WindowStateProjectService">
     <state x="304" y="187" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1598340297681">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state x="304" y="187" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1598340297681" />
+    <state x="417" y="100" key="CommitChangelistDialog2" timestamp="1598341694957">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="417" y="100" key="CommitChangelistDialog2/0.0.1680.1050@0.0.1680.1050" timestamp="1598341694957" />
     <state x="646" y="451" key="Github.CreateGistDialog" timestamp="1598341166279">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
@@ -103,13 +162,13 @@
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state x="341" y="164" key="SettingsEditor/0.0.1680.1050@0.0.1680.1050" timestamp="1598341156219" />
-    <state x="440" y="265" key="Vcs.Push.Dialog.v2" timestamp="1598340489069">
+    <state x="440" y="265" key="Vcs.Push.Dialog.v2" timestamp="1598341709208">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state x="440" y="265" key="Vcs.Push.Dialog.v2/0.0.1680.1050@0.0.1680.1050" timestamp="1598340489069" />
-    <state x="628" y="446" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1598341315839">
+    <state x="440" y="265" key="Vcs.Push.Dialog.v2/0.0.1680.1050@0.0.1680.1050" timestamp="1598341709208" />
+    <state x="628" y="446" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1598341698727">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state x="628" y="446" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1680.1050@0.0.1680.1050" timestamp="1598341315839" />
+    <state x="628" y="446" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1680.1050@0.0.1680.1050" timestamp="1598341698727" />
   </component>
 </project>
